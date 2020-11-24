@@ -67,3 +67,7 @@ theme = "LoveIt"
     url = "/categories/"
     title = ""
     weight = 3
+
+# Author Info
+[author]
+  name = "David Rodríguez"
